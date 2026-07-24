@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612794969860",
+    "project_id": "teamproject-3e6aa",
+    "storage_bucket": "teamproject-3e6aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612794969860:android:9c49b4c35990403d42ea51",
+        "android_client_info": {
+          "package_name": "com.example.team_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYL_LnfD8rNdHo6c0XDk7nQzxt_gI1ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

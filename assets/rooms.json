@@ -1,0 +1,162 @@
+[
+  {
+    "room": "قاعة ر1",
+    "college": "الهندسة المعلوماتية",
+    "floor": 2,
+    "building": "المبنى الرئيسي",
+    "steps": [
+      {
+        "title": "ادخل من الباب الرئيسي لكلية الهندسة المعلوماتية",
+        "icon": "door",
+        "image": "assets/steps/101/step1.jpg"
+      },
+      {
+        "title": "اتجه يمينًا نحو الممر الجانبي",
+        "icon": "arrow_right",
+        "image": "assets/steps/101/step2.jpg"
+      },
+      {
+        "title": "تقدم نحو مركز النافذة الواحدة",
+        "icon": "arrow_forward",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "اتجه يمينًا وبعدها انعطف يسارا نحو الدرج ",
+        "icon": "arrow_right",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "اصعد للطابق الثاني",
+        "icon": "stairs",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "قاعة ر1 أول قاعة على اليمين",
+        "icon": "door_front_door",
+        "image": "assets/steps/101/step3.jpg"
+      }
+    ]
+  },
+
+  {
+     "room": "قاعة ر2",
+    "college": "الهندسة المعلوماتية",
+    "floor": 2,
+    "building": "المبنى الرئيسي",
+    "steps": [
+      {
+        "title": "ادخل من الباب الرئيسي لكلية الهندسة المعلوماتية",
+        "icon": "door",
+        "image": "assets/steps/101/step1.jpg"
+      },
+      {
+        "title": "اتجه يمينًا نحو الممر الجانبي",
+        "icon": "arrow_right",
+        "image": "assets/steps/101/step2.jpg"
+      },
+      {
+        "title": "تقدم نحو مركز النافذة الواحدة",
+        "icon": "arrow_forward",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "اتجه يمينًا وبعدها انعطف يسارا نحو الدرج ",
+        "icon": "arrow_right",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "اصعد للطابق الثاني",
+        "icon": "stairs",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "قاعة ر2 في المنتصف أمامك  ",
+        "icon": "door_front_door",
+        "image": "assets/steps/101/step3.jpg"
+      }
+    ]
+  },
+
+  {
+    "room": "قاعة ر3",
+    "college": "الهندسة المعلوماتية",
+    "floor": 2,
+    "building": "المبنى الرئيسي",
+    "steps": [
+      {
+        "title": "ادخل من الباب الرئيسي لكلية الهندسة المعلوماتية",
+        "icon": "door",
+        "image": "assets/steps/101/step1.jpg"
+      },
+      {
+        "title": "اتجه يمينًا نحو الممر الجانبي",
+        "icon": "arrow_right",
+        "image": "assets/steps/101/step2.jpg"
+      },
+      {
+        "title": "تقدم نحو مركز النافذة الواحدة",
+        "icon": "arrow_forward",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "اتجه يمينًا وبعدها انعطف يسارا نحو الدرج ",
+        "icon": "arrow_right",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "اصعد للطابق الثاني",
+        "icon": "stairs",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "قاعة ر3 اخر قاعة على اليسار",
+        "icon": "door_front_door",
+        "image": "assets/steps/101/step3.jpg"
+      }
+    ]
+  },
+
+  {
+    "room": "مخبر 1",
+    "college": "الهندسة المعلوماتية",
+    "floor": 1,
+    "building": "المبنى الرئيسي",
+    "steps": [
+      {
+        "title": "ادخل من الباب الرئيسي لكلية الهندسة المعلوماتية",
+        "icon": "door",
+        "image": "assets/steps/101/step1.jpg"
+      },
+      {
+        "title": "اتجه يمينًا نحو الممر الجانبي",
+        "icon": "arrow_right",
+        "image": "assets/steps/101/step2.jpg"
+      },
+      {
+        "title": "تقدم نحو مركز النافذة الواحدة",
+        "icon": "arrow_forward",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "اتجه يمينًا وبعدها انعطف يسارا نحو الدرج ",
+        "icon": "arrow_right",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "اصعد للطابق الأول",
+        "icon": "stairs",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "توجه إلة نهاية الممر على اليسار",
+        "icon": "arrow_left",
+        "image": "assets/steps/101/step3.jpg"
+      },
+      {
+        "title": "المخبر 1 اخر مخبر في نهاية الممر ",
+        "icon": "door_front_door",
+        "image": "assets/steps/101/step3.jpg"
+      }
+    ]
+  }
+]
